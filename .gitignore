@@ -1,2 +1,8 @@
-*.class
-*.log
+# scala
+.bsp/
+project/project
+project/target
+target/
+
+# intelliJ
+.idea/
