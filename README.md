@@ -1,2 +1,2 @@
-# scala_sanbox
+# scala_sandbox
 Learning Scala
